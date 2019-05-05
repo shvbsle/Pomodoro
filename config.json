@@ -1,0 +1,6 @@
+{
+    "silent_duration":{
+        "desc":"24 hour format. List of tuples with intervals between which, cannot beep",
+        "hours":[[22,22]]
+    }
+}
